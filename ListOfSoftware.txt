@@ -1,3 +1,39 @@
 2.4.2. Exercise - List of software
-Create a list of all the software that you use on a regular basis. Which software is FOSS? Which applications have FOSS equivalents? What are those equivalents?
+Create a list of all the software that you use on a regular basis. Which software is FOSS?
+Which applications have FOSS equivalents? What are those equivalents?
 
+using online Text...
+-List software titles that you use on a regular basis.
+    * Microsoft Word
+    * Adobe Reader
+    * Google Chrome
+
+-Identify which software is FOSS.
+    * Chrome is licenced as proprietary freeware however, there is an open-source software
+      project called Chromium sponsored by google.
+
+    * Microsoft Word offers Microsoft Office Word Online where real-time collaboration features
+      are available for groups of collaborators to work but they wouldn't be able to
+      contribute to the source code of the Word application since it's proprietary.
+
+    * Adobe is open source software according to a blog found on Adobe at:
+      https://blog.adobe.com/en/2019/05/15/how-and-why-adobe-is-making-open-source-a-strategic-priority.html#gs.ex8gne
+      * According to the blog, Adobe was ranked as the 16th largest corporate open source contributor
+        in 2018.
+
+-Identify FOSS equivalents, if any, for the non-FOSS software.
+    * Google Docs is the alternative to Microsoft Word.  Docs also allows for realtime contributions.
+    * Chrome being developed by Google only has a few competitors that offer the same browsing.
+      However, Chrome has been identified as a data mining application where people don't want
+      to share their privacy.  Mozilla Firefox is and equivalent service with the increased mission
+      to protect user ID.  This application is widely known as open source.
+    * Adobe is the best reader out, hands down. However, FoxIt Reader is an alternative software.
+      I used it for a while but it didn't carry the appeal of all the amenaties that Adobe has.
+
+-[Remember to include your reflection.]
+    I didn't realize that Adobe was open source.  According to the blog, Adobe is steering the
+    focus of the current source code to a more broader scope of open contributions.  In the text,
+    Eric Raymond described the importance of having users but identifying them as co-developers.
+    Adobe is properly cultivated by serving a need. If a development model is properly set up then
+    Raymond's quote from Heinlein "too lazy to fail" holds true where open source is easy to
+    underestimate how powerful a community can be to make a stronger application.
